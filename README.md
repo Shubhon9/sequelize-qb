@@ -8,6 +8,11 @@ A **reusable query builder wrapper for Sequelize** with:
 - Association inclusion  
 - Automatic cache invalidation for read queries  
 
+## Installation
+
+```bash
+npm install sequelize-query-builder
+```
 ---
 
 ## 🔹 Purpose
